@@ -1,0 +1,27 @@
+.minha-classe {
+  width: 100%;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   gap:16px;
+}
+
+.minha-classe figure{
+   border: 1px solid #685858;
+   padding: 8px;
+   width: 200px;
+   display: flex;
+   flex-direction: column;
+   gap: 4px;
+} 
+
+
+
+
+ul {
+   list-style: none;
+
+}
+.texto {
+   margin-left: 10px;
+}
